@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+<!--            添加报告监听-->
+        <listener class-name="base.TestNGListener"></listener>
+
+    </listeners>
+    <test thread-count="5" name="Test">
+        <classes>
+            <class name="TestCase.LoginTest">
+                <methods>
+                    <include name="LoginTest"/>
+                </methods>
+            </class>
+            <class name="TestCase.SearchTest">
+                <methods>
+                    <include name="searchTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,316 @@
+2021-07-04 22:58:38[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-04 22:58:43[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-04 22:58:43[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-04 22:58:48[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-04 22:58:52[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-04 23:14:09[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-04 23:14:15[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-04 23:14:15[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-04 23:14:20[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-04 23:14:24[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-04 23:15:42[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-04 23:15:48[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-04 23:15:48[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-04 23:15:53[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-04 23:15:57[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-04 23:17:03[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-04 23:17:09[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-04 23:17:09[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-04 23:17:14[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-04 23:17:18[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-04 23:22:05[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-04 23:22:11[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-04 23:22:11[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-04 23:22:16[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-04 23:22:20[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-04 23:31:00[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-04 23:31:06[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-04 23:31:06[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-04 23:31:11[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-04 23:31:13[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-04 23:33:19[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-04 23:33:24[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-04 23:33:25[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-04 23:33:30[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 11:18:03[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 11:18:11[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 11:18:11[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 11:18:16[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 11:18:23[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 11:30:43[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 11:30:49[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 11:30:49[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 11:30:55[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 11:31:03[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 11:32:49[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 11:32:58[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 11:32:58[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 11:33:03[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 13:54:20[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 13:54:26[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 13:54:26[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 13:54:31[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 13:54:35[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 14:10:53[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:10:59[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 14:10:59[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 14:11:05[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:11:09[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 14:12:23[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:12:29[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 14:12:29[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 14:12:35[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:12:39[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 14:14:35[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:14:42[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 14:14:42[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 14:14:47[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:14:51[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 14:33:29[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:33:36[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 14:33:36[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 14:33:41[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:33:45[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 14:39:13[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:39:20[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 14:39:20[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 14:39:29[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:39:32[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 14:48:39[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:48:45[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 14:48:45[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 14:48:50[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:48:54[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 14:51:53[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:51:59[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 14:51:59[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 14:52:04[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:52:08[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 14:54:07[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:54:14[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 14:54:14[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 14:54:19[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:54:23[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 14:55:28[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:55:33[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 14:55:34[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 14:56:25[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:56:32[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 14:56:32[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 14:58:05[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 14:58:12[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 14:58:12[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:03:33[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:03:40[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 15:03:40[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:03:46[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:03:50[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 15:12:02[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:12:11[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 15:12:11[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:12:16[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:12:20[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 15:13:41[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:13:48[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 15:13:48[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:13:54[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:14:00[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 15:25:46[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:25:52[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 15:25:52[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:25:58[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:26:02[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 15:27:17[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:27:23[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 15:27:23[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:27:29[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:27:33[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 15:30:13[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:30:19[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 15:30:19[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:30:24[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:30:28[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 15:45:52[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:46:02[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 15:46:02[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:46:07[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:46:12[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 15:47:26[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:47:32[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 15:47:33[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:47:38[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:47:42[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 15:48:57[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:49:05[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 15:49:05[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:49:24[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:49:31[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 15:49:31[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:49:37[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:49:41[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 15:50:50[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:50:57[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 15:50:57[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:51:03[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:51:07[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 15:55:42[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:55:53[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 15:55:53[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:55:59[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:56:04[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 15:58:28[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:58:36[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 15:58:36[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 15:58:43[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 15:58:48[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 16:02:57[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:03:07[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 16:03:07[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 16:03:14[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:03:19[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 16:04:22[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:04:30[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 16:04:30[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 16:04:36[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:04:41[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 16:10:46[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:10:53[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 16:10:53[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 16:10:58[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:11:03[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 16:22:31[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:22:38[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 16:22:38[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 16:22:44[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:22:52[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 16:29:31[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:29:38[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 16:29:38[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 16:29:44[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:29:48[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 16:32:34[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:32:41[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 16:32:41[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 16:32:46[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:32:50[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 16:33:45[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:34:27[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:34:33[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 16:34:33[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 16:34:39[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:34:42[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 16:41:47[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:41:53[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 16:41:54[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 16:42:00[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 16:42:04[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-05 17:08:55[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-05 17:09:05[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-05 17:09:05[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-05 17:09:11[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-05 17:09:16[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-06 16:25:50[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-06 16:25:58[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-06 16:25:58[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-06 16:26:03[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-06 16:26:08[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-07 14:01:31[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-07 14:01:39[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-07 14:01:39[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-07 14:01:45[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-07 14:01:51[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-07 15:20:15[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-07 15:20:21[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-07 15:20:21[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-07 15:20:29[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-07 15:20:34[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-07 15:24:57[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-07 15:25:04[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-07 15:25:04[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-07 15:25:13[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-07 15:25:17[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-07 15:58:51[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-07 15:58:57[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-07 15:58:57[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-07 15:59:03[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-07 15:59:06[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-07 16:00:16[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-07 16:00:23[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-07 16:00:23[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-07 16:00:29[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-07 16:00:33[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-07 16:12:38[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-07 16:12:46[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-07 16:12:46[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-07 16:12:52[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-07 16:12:56[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-07 17:16:16[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-07 17:16:22[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-07 17:16:23[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-07 17:16:32[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-07 17:16:36[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-07 17:21:17[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-07 17:21:25[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-07 17:21:25[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-07 17:21:37[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-07 17:21:40[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-09 16:53:03[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-09 16:53:10[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-09 16:53:10[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-09 16:53:20[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-09 16:53:25[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-09 17:31:01[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-09 17:31:08[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-09 17:31:08[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-09 17:31:17[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-09 17:31:22[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-09 17:53:17[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-09 17:53:25[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-09 17:53:25[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-09 17:53:33[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-09 17:53:39[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-09 17:57:54[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-09 17:58:04[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-09 17:58:04[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-09 17:58:10[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-09 17:58:15[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-12 10:35:49[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-12 10:35:56[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-12 10:35:56[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-12 10:36:03[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-12 10:36:08[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-12 10:45:28[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-12 10:45:42[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-12 10:45:42[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-12 10:45:49[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-12 10:45:54[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-12 10:49:43[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-12 10:49:50[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-12 10:49:50[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-12 10:49:56[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-12 10:50:01[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-12 13:36:06[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-12 13:36:11[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-12 13:36:11[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-12 13:36:20[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-12 13:36:24[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-12 13:41:40[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-12 13:41:48[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-12 13:41:48[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-12 13:41:57[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-12 13:42:01[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-12 13:45:10[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-12 13:45:16[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-12 13:45:16[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-12 13:45:23[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-12 13:45:27[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-12 14:26:00[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-12 14:26:08[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-12 14:26:08[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-12 14:26:18[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-12 14:26:22[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
+2021-07-12 14:51:24[main]INFO  TestCase.LoginTest - 中文版日志信息-成功启动浏览器
+2021-07-12 14:51:32[main]INFO  TestCase.LoginTest - 成功登陆
+2021-07-12 14:51:32[main]INFO  TestCase.LoginTest - 断言通过
+2021-07-12 14:51:41[main]INFO  TestCase.SearchTest - 中文版日志信息-成功启动浏览器
+2021-07-12 14:51:45[main]ERROR TestCase.SearchTest - 断言失败java.lang.AssertionError: expected [百度首页] but found [百度首页1]
